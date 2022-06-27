@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
 // import 'foundation-sites';
-import BenefitsPreview from './js/react/benefitsApp.jsx';
+import BenefitsPreview from 'benefitsApp.jsx';
 
 // const browserIsIE = !!window.MSInputMethodContext && !!document.documentMode;
 
