@@ -1,4 +1,4 @@
-# plan-benefits
+# Lookup Plan Benefits
 
 Public Site: https://healthalliance.org/benefits
 
